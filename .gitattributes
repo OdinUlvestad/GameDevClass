@@ -1,3 +1,4 @@
 CarAndShaders filter=lfs diff=lfs merge=lfs -text
 Lighting filter=lfs diff=lfs merge=lfs -text
 2DPlatformer filter=lfs diff=lfs merge=lfs -text
+2DPlatformer/Library filter=lfs diff=lfs merge=lfs -text
